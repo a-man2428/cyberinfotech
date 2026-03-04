@@ -40,6 +40,49 @@
           }
         }
       ]
+    },
+    {
+      "certificateNo": "ML2512503",
+      "candidate": {
+        "name": "RAHUL KULKARNI",
+        "college": "TKM College Of Engineering",
+        "registrationNo" : "CS/ENGG/2022/14783"
+      },
+      "domain": "Introduction to ML",
+      "programs": [
+        {
+          "mode": "online",
+          "duration": {
+            "from": "01/12/2025",
+            "to": "28/12/2025"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DA2512301",
+      "candidate": {
+        "name": "SATYAM SINGH",
+        "college": "GOVERNMENT ENGINEERING COLLEGE Arwal",
+        "registrationNo" : "23153153905"
+      },
+      "domain": "Study and analysis of BI tools using Power BI",
+      "programs": [
+        {
+          "mode": "offline",
+          "duration": {
+            "from": "01/12/2025",
+            "to": "28/12/2025"
+          }
+        },
+        {
+          "mode": "online",
+          "duration": {
+            "from": "02/01/2026",
+            "to": "29/01/2026"
+          }
+        }
+      ]
     }
   ]
 }

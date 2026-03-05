@@ -83,6 +83,132 @@
           }
         }
       ]
+    },
+    {
+      "certificateNo": "DS2601505",
+      "candidate": {
+        "name": "NIBHA KUMARI",
+        "college": "Sershah Engineering College, Sasaram",
+        "registrationNo": "22113124011"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2601501",
+      "candidate": {
+        "name": "NIGAM KUMAR",
+        "college": "Sershah Engineering College Sasaram",
+        "registrationNo": "22113124012"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2601502",
+      "candidate": {
+        "name": "NIKKI KUMARI",
+        "college": "Sershah Engineering College Sasaram",
+        "registrationNo": "22113124013"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2501503",
+      "candidate": {
+        "name": "BIKRAM KUMAR",
+        "college": "Shershah Engineering College Sasaram",
+        "registrationNo": "22113124009"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2025",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2601504",
+      "candidate": {
+        "name": "SHIKHAR DHAVAN",
+        "college": "Sershah Engineering College Sasaram",
+        "registrationNo": "23113124902"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "FA2601501",
+      "candidate": {
+        "name": "DIPENTI KUMARI",
+        "college": "Government Engineering College Arwal",
+        "registrationNo": "23103153959"
+      },
+      "domain": "Foundation of AI",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "FA2601502",
+      "candidate": {
+        "name": "AKANKSHA KUMARI",
+        "college": "Government Engineering College Arwal",
+        "registrationNo": "23103153961"
+      },
+      "domain": "Foundation of AI",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "01/01/2026",
+            "to": "28/01/2026"
+          }
+        }
+      ]
     }
   ]
 }

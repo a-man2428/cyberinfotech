@@ -209,6 +209,24 @@
           }
         }
       ]
+    },
+    {
+      "certificateNo": "DS2601506",
+      "candidate": {
+        "name": "DEEPAK KUMAR",
+        "college": "Sershah Engineering College, Sasaram",
+        "registrationNo": "22113124010"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
     }
   ]
 }

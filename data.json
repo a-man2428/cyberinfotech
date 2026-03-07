@@ -475,6 +475,131 @@
           }
         }
       ]
+    },
+    {
+      "certificateNo": "MS2512301",
+      "candidate": {
+        "name": "ABHISHEK KUMAR",
+        "college": "GOVERNMENT ENGINEERING COLLEGE, ARWAL",
+        "registrationNo": "22153153050"
+      },
+      "domain": "MERN Stack",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "02/01/2026",
+            "to": "29/02/2026"
+          }
+        },
+        {
+          "mode": "Offline",
+          "duration": {
+            "from": "01/12/2025",
+            "to": "28/12/2025"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "MS2512302",
+      "candidate": {
+        "name": "SURAJ KUMAR",
+        "college": "GOVERNMENT ENGINEERING COLLEGE, ARWAL",
+        "registrationNo": "22153153045"
+      },
+      "domain": "MERN Stack",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "02/01/2026",
+            "to": "29/02/2026"
+          }
+        },
+        {
+          "mode": "Offline",
+          "duration": {
+            "from": "01/12/2025",
+            "to": "28/12/2025"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "MS2512303",
+      "candidate": {
+        "name": "ANSHU KUMARI",
+        "college": "GOVERNMENT ENGINEERING COLLEGE, ARWAL",
+        "registrationNo": "22153153005"
+      },
+      "domain": "MERN Stack",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "02/01/2026",
+            "to": "29/02/2026"
+          }
+        },
+        {
+          "mode": "Offline",
+          "duration": {
+            "from": "01/12/2025",
+            "to": "28/12/2025"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "MS2512304",
+      "candidate": {
+        "name": "RINKI KUMARI",
+        "college": "GOVERNMENT ENGINEERING COLLEGE, ARWAL",
+        "registrationNo": "22153153004"
+      },
+      "domain": "MERN Stack",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "02/01/2026",
+            "to": "29/02/2026"
+          }
+        },
+        {
+          "mode": "Offline",
+          "duration": {
+            "from": "01/12/2025",
+            "to": "28/12/2025"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "MS2512305",
+      "candidate": {
+        "name": "RITU RAJ",
+        "college": "GOVERNMENT ENGINEERING COLLEGE, ARWAL",
+        "registrationNo": "22153153018"
+      },
+      "domain": "MERN Stack",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "02/01/2026",
+            "to": "29/02/2026"
+          }
+        },
+        {
+          "mode": "Offline",
+          "duration": {
+            "from": "01/12/2025",
+            "to": "28/12/2025"
+          }
+        }
+      ]
     }
   ]
 }

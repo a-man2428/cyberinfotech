@@ -378,6 +378,67 @@
           }
         }
       ]
+    },
+    {
+      "certificateNo": "DS2601510",
+      "candidate": {
+        "name": "PRINCE KARAN SINGH",
+        "college": "Government Engineering College, Arwal",
+        "registrationNo": "23153153901"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "offline",
+          "duration": {
+            "from": "15/12/2025",
+            "to": "15/01/2026"
+          }
+        },
+        {
+          "mode": "online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2601511",
+      "candidate": {
+        "name": "SURAJ KUMAR",
+        "college": "Government Engineering College Arwal",
+        "registrationNo": "23153153904"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2601512",
+      "candidate": {
+        "name": "PRACHI KUMARI",
+        "college": "Government Engineering College Arwal",
+        "registrationNo": "22153153001"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
     }
   ]
 }

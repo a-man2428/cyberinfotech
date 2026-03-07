@@ -439,6 +439,42 @@
           }
         }
       ]
+    },
+    {
+      "certificateNo": "DS2601513",
+      "candidate": {
+        "name": "Nilesh kumar",
+        "college": "Sershah engineering college, sasaram",
+        "registrationNo": "22113124014"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2601514",
+      "candidate": {
+        "name": "Nitish Kumar",
+        "college": "Sershah Engineering College, Sasaram",
+        "registrationNo": "22113124015"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
     }
   ]
 }

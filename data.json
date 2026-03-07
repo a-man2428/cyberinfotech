@@ -227,6 +227,96 @@
           }
         }
       ]
+    },
+    {
+      "certificateNo": "CC2601502",
+      "candidate": {
+        "name": "RITU DEV KUMAR",
+        "college": "Government Engineering College Arwal",
+        "registrationNo": "22153153047"
+      },
+      "domain": "Cloud Computing With AWS",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "CC2601501",
+      "candidate": {
+        "name": "ANKITA KUMARI",
+        "college": "Government Engineering College, Arwal",
+        "registrationNo": "22153153007"
+      },
+      "domain": "Cloud Computing With AWS",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2601507",
+      "candidate": {
+        "name": "PRIYA KUMARI",
+        "college": "Government Engineering College Arwal",
+        "registrationNo": "22153153052"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2601508",
+      "candidate": {
+        "name": "ANURAG KUMAR",
+        "college": "Sershah Engineering College",
+        "registrationNo": "22113124006"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
+    },
+    {
+      "certificateNo": "DS2601509",
+      "candidate": {
+        "name": "RAUSHAN KUMAR",
+        "college": "Sershash Engineering College, Sasaram",
+        "registrationNo": "22113124019"
+      },
+      "domain": "Data Science Using Python",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+       ]
     }
   ]
 }

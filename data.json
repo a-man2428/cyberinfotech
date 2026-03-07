@@ -317,6 +317,24 @@
           }
         }
        ]
+    },
+    {
+      "certificateNo": "CC2601503",
+      "candidate": {
+        "name": "ROBIND KUMAR",
+        "college": "Government Engineering College, Arwal",
+        "registrationNo": "22153153054"
+      },
+      "domain": "Cloud Computing With AWS",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "15/01/2026",
+            "to": "15/02/2026"
+          }
+        }
+      ]
     }
   ]
 }

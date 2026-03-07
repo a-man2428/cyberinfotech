@@ -335,6 +335,31 @@
           }
         }
       ]
-    }
+    },
+    {
+      "certificateNo": "FS2512501",
+      "candidate": {
+        "name": "KUMAR ANIKET",
+        "college": "Government Engineering College, Arwal",
+        "registrationNo": "22153153030"
+      },
+      "domain": "Full Stack Development",
+      "programs": [
+        {
+          "mode": "offline",
+          "duration": {
+            "from": "01/12/2025",
+            "to": "28/12/2025"
+          }
+        },
+        {
+          "mode": "online",
+          "duration": {
+            "from": "01/01/2026",
+            "to": "28/01/2026"
+          }
+        }
+      ]
+    },
   ]
 }

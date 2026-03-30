@@ -600,31 +600,6 @@
           }
         }
       ]
-    },
-     {
-      "certificateNo": "TEST2601501",
-      "candidate": {
-        "name": "TEST RAJ",
-        "college": "GOVERNMENT ENGINEERING COLLEGE, ARWAL",
-        "registrationNo": "221531530000"
-      },
-      "domain": "DEVELOPER PROGRAMMING",
-      "programs": [
-        {
-          "mode": "Online",
-          "duration": {
-            "from": "02/01/2026",
-            "to": "29/02/2026"
-          }
-        },
-        {
-          "mode": "Offline",
-          "duration": {
-            "from": "01/12/2025",
-            "to": "28/12/2025"
-          }
-        }
-      ]
     }
   ]
 }

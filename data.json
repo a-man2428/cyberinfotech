@@ -600,6 +600,24 @@
           }
         }
       ]
+    },
+    {
+      "certificateNo": "CS2607509",
+      "candidate": {
+        "name": "PRINCE KUMAR GAUTAM",
+        "college": "Sershah Engineering College, Sasaram",
+        "registrationNo": "22102124013"
+      },
+      "domain": "Cyber Security",
+      "programs": [
+        {
+          "mode": "Online",
+          "duration": {
+            "from": "01/07/2026",
+            "to": "30/07/2026"
+          }
+        }
+      ]
     }
   ]
 }

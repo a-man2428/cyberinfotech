@@ -602,19 +602,19 @@
       ]
     },
     {
-      "certificateNo": "CS2607509",
+      "certificateNo": "MS2512306",
       "candidate": {
-        "name": "PRINCE KUMAR GAUTAM",
-        "college": "Sershah Engineering College, Sasaram",
-        "registrationNo": "22102124013"
+        "name": "ABHISHEK YADAV",
+        "college": "GOVERNMENT ENGINEERING COLLEGE, ARWAL",
+        "registrationNo": "24101153041"
       },
-      "domain": "Cyber Security",
+      "domain": "AUTO CAD",
       "programs": [
         {
           "mode": "Online",
           "duration": {
-            "from": "01/07/2026",
-            "to": "30/07/2026"
+            "from": "22/12/2025",
+            "to": "2/01/2026"
           }
         }
       ]
